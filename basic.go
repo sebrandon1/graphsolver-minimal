@@ -1,8 +1,8 @@
 package main
 
 import (
-	l2lib "github.com/test-network-function/l2discovery/l2lib/pkg/export"
-	"github.com/test-network-function/simplegraphsolver/pkg/lib"
+	l2lib "github.com/test-network-function/l2discovery-exports"
+	lib "github.com/test-network-function/graphsolver-lib"
 )
 
 type testGraph struct {
