@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/test-network-function/graphsolver-lib v0.0.3
-	github.com/test-network-function/l2discovery-exports v0.0.1
+	github.com/test-network-function/l2discovery-exports v0.0.3
 )
 
 require (
